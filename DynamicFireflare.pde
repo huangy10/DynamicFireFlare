@@ -2,6 +2,9 @@
 // Realtime rendered particle effect simulating fireflare
 // Motivated by https://www.openprocessing.org/sketch/422861
 
+// https://github.com/huangy10/DynamicFireFlare
+// https://www.jianshu.com/u/927273827560
+
 import java.nio.IntBuffer;
 import java.nio.FloatBuffer;
 import java.nio.ByteBuffer;
